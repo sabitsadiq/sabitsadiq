@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is Sabit Sadiq</h2>
-
+<p>I'm a seasoned software developer with a strong background in front-end and backend technologies. Over the years, I've honed my skills in crafting web applications that are not just functional but also fully responsive and scalable, always keeping the business objectives at the forefront. My organizational skills and attention to detail enable me to effectively plan and manage projects, ensuring timely delivery and client satisfaction.</p>
+<p>One of my passions is sharing knowledge and collaborating with fellow developers. I thrive in team environments where ideas are exchanged freely, leading to innovative solutions and a supportive work culture.</p>
 ###
 
 <div align="center">
